@@ -2,4 +2,4 @@
 services:
   - docker
 script:
-  - docker-compose run test rspec test/spec.rb 
+  - docker-compose run test
