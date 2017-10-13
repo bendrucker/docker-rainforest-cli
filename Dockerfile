@@ -1,5 +1,7 @@
 FROM alpine
 
+LABEL maintainer="bvdrucker@gmail.com"
+
 # libc6-compat is needed for dynamic linking on alpine
 RUN apk update && apk add curl libc6-compat ca-certificates
 
