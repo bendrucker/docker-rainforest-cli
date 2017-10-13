@@ -1,4 +1,4 @@
-# docker-rainforest-cli
+# docker-rainforest-cli [![Build Status](https://travis-ci.org/bendrucker/docker-rainforest-cli.svg?branch=master)](https://travis-ci.org/bendrucker/docker-rainforest-cli)
 
 > Docker image for [`rainforest-cli`](https://github.com/rainforestapp/rainforest-cli)
 
